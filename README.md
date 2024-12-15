@@ -1,4 +1,5 @@
- <img src="https://github.com/phuongtrieu97coder/Readme_Content_Structure/assets/82598726/c5b72dca-7b66-43d9-bbf5-9c54aff9aee7" alt="Vue.js" width="40px" height="40px"> ![image](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js) ![image](https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=react) ![image](https://img.shields.io/badge/mongoDB-black?style=for-the-badge&logo=mongodb)  ![image](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5) ![image](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3) ![image](https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap) ![image](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![image](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jquery) ![image](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json)
+![image](https://github.com/user-attachments/assets/8715d664-b57a-41e5-ab0b-83e4d1a2ce99)
+
 
 ![image](https://github.com/phuongtrieu97coder/VueJS_projects/assets/82598726/398716df-0645-45f4-890c-174062c8b788)
 
